@@ -1,19 +1,46 @@
-# Business-Insights-360
+#📊 Business Insights 360
 
-In this project, the goal is to be one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is made on the following
+🚀 Project Overview
+This project delivers a unified Power BI report designed for stakeholders across Sales, Marketing, Finance, Supply Chain, and Executive leadership. The goal was to create a single source of truth that combines:
 
-1. Robust Data Modeling
-2. User-empathetic Report design
-3. Drillable Insights
+Robust Data Modeling for accuracy and scalability
 
-I learned the following things in this project
+User‑empathetic Report Design with intuitive navigation and storytelling
 
-1. Power Query (Basic and Advanced Operations) 
-2. Basic and complex DAX formulas
-3. Data modelling involving 10+ tables
-4. Choosing the right visuals and formatting
-5. Dashboard designing principles
-6. Using bookmarks
-7. Deploying in Power BI service
-8. Stakeholder Feedback Implementation
-9. Sales, Marketing, Finance & Supply Chain metrics
+Drillable Insights enabling stakeholders to move seamlessly from KPIs to granular analysis
+
+🛠️ Tools & Technologies
+Power BI (Dashboards, Bookmarks, Deployment in Service)
+
+SQL & DAX (Basic + Complex formulas)
+
+Power Query (Basic & Advanced transformations)
+
+Data Modeling (10+ interconnected tables)
+
+Excel (Data prep & validation)
+
+📈 Key Features
+Built interactive dashboards with transparent visuals aligned to IBCS standards.
+
+Designed executive‑ready layouts with headline KPIs and drill‑through capabilities.
+
+Implemented bookmarks for guided storytelling and user‑friendly navigation.
+
+Incorporated stakeholder feedback loops, refining visuals and metrics for real‑world decision‑making.
+
+Delivered insights across Sales, Marketing, Finance, and Supply Chain metrics.
+
+🎯 Learning Outcomes
+Advanced Power Query operations for data cleaning and transformation.
+
+Mastery of DAX formulas for complex business logic.
+
+Principles of dashboard design and professional formatting.
+
+Experience in deploying reports in Power BI Service with role‑based access.
+
+Practical skills in stakeholder collaboration and feedback implementation.
+
+🌟 Impact
+This project strengthened expertise in data modeling, visualization, and BI storytelling, while delivering a cross‑functional insights hub that supports strategic decision‑making across multiple business domains.
